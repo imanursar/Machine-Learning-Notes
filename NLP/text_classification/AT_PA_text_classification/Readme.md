@@ -10,14 +10,14 @@ Motivated by the above background, Prosa.ai will create an API service for senti
 Solution
 ========
 
-To solve this problem, we will follow the typical machine learning pipeline. We will first import the required libraries and the dataset. We will then do exploratory data analysis to see if we can find any trends in the dataset. Next, we will perform text preprocessing to convert textual data to numeric data that can be used by a machine learning algorithm. Finally, we will use machine learning algorithms to train and test our sentiment analysis models.
+To solve this problem, we will follow the typical machine learning pipeline. We will first import the required libraries and the dataset. We will then do exploratory data analysis to see if we can find any trends in the dataset. Next, we will perform text processing to convert textual data to numeric data that can be used by a machine learning algorithm. Finally, we will use machine learning algorithms to train and test our sentiment analysis models.
 
 Result
 ======
 
-I have create 5 file those are:
+I have create 5 files those are:
 
-## [Sentiment Analysis Pre-precessing](https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/1.%20Sentiment%20Analysis%20Pre-pocessing.ipynb)
+## [Sentiment Analysis Pre-processing](https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/1.%20Sentiment%20Analysis%20Pre-pocessing.ipynb)
 1.	Importing the Required Libraries
 2.	[Importing the Dataset](https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/DATA/train_data_restaurant.tsv)
 	1.	Check Null Values Present
@@ -94,6 +94,24 @@ I have create 5 file those are:
 	4.	[Plot History](https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/image/accuracy_and_loss_cnn_wiki_model.png)
 9.	Making a Prediction for New Reviews
 
-## [Making a Prediction for Test dataset and New Reviews]
+## [Making a Prediction for Test dataset](https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/5.%20Making%20a%20Prediction%20for%20Test%20dataset.ipynb)
+1.	use these files to make a prediction for test dataset 
+	1.	https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/5.%20Making%20a%20Prediction%20for%20Test%20dataset.ipynb
+	2.	https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/Making%20a%20Prediction%20for%20Test%20dataset.py
 
-## [flask file]()
+## [Making a Prediction for New Reviews](https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/6.%20Making%20prediction%20for%20new%20review.ipynb)
+1.	use these files to make a prediction for new review (change text variable to a new sentence)
+	1.	https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/6.%20Making%20prediction%20for%20new%20review.ipynb
+	2.	https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/Making%20prediction%20for%20new%20review.py
+
+## [flask file](https://gitlab.com/imanursar/nlp-ai-engineer/-/blob/master/flask_file.py)
+use this file with [Postman](https://www.postman.com/) to make a prediction for new sentence. 
+1.	run this file at terminal
+2.	run Postman
+3.	input http://localhost:2021/sentiment_analysis for POST request
+4.	at the params click Body -> raw -> input your sentence in JSON format
+(i.e. 
+{
+    "sentence": "Saya telah mencoba pasta dan pizza yang mereka hidangkan, rasanya…. Enak!"
+}
+)
