@@ -1,0 +1,22 @@
+example:
+
+encoder = Sequential()
+encoder.add(Flatten(input_shape=[28,28]))
+encoder.add(Dense(400,activation="relu"))
+encoder.add(Dense(200,activation="relu"))
+encoder.add(Dense(100,activation="relu"))
+encoder.add(Dense(50,activation="relu"))
+encoder.add(Dense(25,activation="relu"))
+
+decoder = Sequential()
+decoder.add(Dense(50,input_shape=[25],activation='relu'))
+decoder.add(Dense(100,activation='relu'))
+decoder.add(Dense(200,activation='relu'))
+decoder.add(Dense(400,activation='relu'))
+decoder.add(Dense(28 * 28, activation="sigmoid"))
+decoder.add(Reshape([28, 28]))
+
+
+AutoEncoders for Denoising Images
+	Create noise removal autoencoder
+	
