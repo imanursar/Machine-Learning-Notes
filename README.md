@@ -30,4 +30,4 @@ my notes for what i learn from machine learning method
 3. [Frequent Itemsets](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Association%20Rules%20Generation%20from%20Frequent%20Itemsets.ipynb)
 4. [Frequent Itemsets via Apriori Algorithm](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Frequent%20Itemsets%20via%20Apriori%20Algorithm.ipynb)
 5. [Frequent Itemsets via FP-Growth Algorithm](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Frequent%20Itemsets%20via%20the%20FP-Growth%20Algorithm.ipynb)
-6. [Maximal Itemsets via the FP-Max Algorithm](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Maximal%20Itemsets%20via%20the%20FP-Max%20Algorithm.ipynb)
+6. [Maximal Itemsets via FP-Max Algorithm](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Maximal%20Itemsets%20via%20the%20FP-Max%20Algorithm.ipynb)
