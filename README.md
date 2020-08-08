@@ -19,7 +19,7 @@ my notes for what i learn from machine learning method
 
 ## [Novelty and Outlier Detection](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Novelty%20and%20Outlier%20Detection)
 1. [Anomaly detection vanilla](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/Anomaly%20Detection.ipynb)
-2. [Anomaly detection with PCA](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/Anomaly%20Detection%20%20with%20PCA.ipynb)
+2. [Anomaly detection with PCA [ongoing]](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/Anomaly%20Detection%20%20with%20PCA.ipynb)
 3. [Anomaly detection with Scikit-learn](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/outlier%20and%20novelty%20detection.ipynb)
 4. [Anomaly detection with AutoEncoders](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/Anomaly%20Detection%20with%20Autoencoders.ipynb)
 5. [Python Outlier Detection (PyOD)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/The%20Python%20Outlier%20Detection%20(PyOD).ipynb)
