@@ -10,7 +10,7 @@ my notes for what i learn from machine learning method
 1. [Grid Search](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning_model/Grid%20Search%20Optimization%20Algorithm%20in%20Python.ipynb)
 2. [Tunning with Nature Inspired Algorithms](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning_model/Nature%20Inspired%20Algorithms%20for%20scikit-learn.ipynb)
 3. [Hyperopt](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning_model/Parameter%20Tuning%20with%20Hyperopt.ipynb)
-4. [Keras tuner](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning_model/keras_tuner_hiplot.ipynb)
+4. [Keras tuner](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning_model/keras%20tuner%20hiplot.ipynb)
 
 ## [Autoencoders](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/AutoEncoders)
 1. [AutoEncoders vanila](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/AutoEncoders/Autoencoders.ipynb)
