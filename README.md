@@ -31,3 +31,12 @@ my notes for what i learn from machine learning method
 4. [Frequent Itemsets via Apriori Algorithm](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Frequent%20Itemsets%20via%20Apriori%20Algorithm.ipynb)
 5. [Frequent Itemsets via FP-Growth Algorithm](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Frequent%20Itemsets%20via%20the%20FP-Growth%20Algorithm.ipynb)
 6. [Maximal Itemsets via FP-Max Algorithm](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Maximal%20Itemsets%20via%20the%20FP-Max%20Algorithm.ipynb)
+
+## [Interpretable Model](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Interpretable%20model)
+1. [Feature Interaction](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/Feature%20Interaction.ipynb)
+2. [Individual Conditional Expectation (ICE)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/Individual%20Conditional%20Expectation%20(ICE).ipynb)
+3. [Local Interpretable Model-agnostic Explanations (LIME)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/Local%20Interpretable%20Model-agnostic%20Explanations%20(LIME).ipynb)
+4. [Partial Dependence Plot (PDP)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/Partial%20Dependence%20Plot%20(PDP).ipynb)
+5. [Random Forest Interpretation [ongoing]](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/Random%20forest%20interpretation%20%5Bongoing%5D.ipynb)
+6. [SHapley Additive exPlanations (SHAP)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/SHapley%20Additive%20exPlanations%20(SHAP).ipynb)
+
