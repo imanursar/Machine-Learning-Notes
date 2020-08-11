@@ -2,6 +2,10 @@
 
 my notes for what i learn from machine learning method
 
+## [Supervised Learning](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised_Learning)
+1. [Decision Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised_Learning/Decision_Tree)
+2. [Random Forest](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised_Learning/Random_Forest)
+
 ## [NLP](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/)
 1. [Text Classification](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_classification)
     - [AT_PA text classification](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_classification/AT_PA_text_classification)
