@@ -5,7 +5,7 @@ Problem Definition
 
 Understanding customer voices is very important for a company to improve the quality of products and services. One of the ways is by identifying the sentiments of customer voices. Thus, the company could know whether its products or services are viewed positively or negatively.
 
-Motivated by the above background, Prosa.ai will create an API service for sentiment analysis. Thus, Prosa.ai must develop an AI model that predicts the sentiment of a text whether it is positive or negative. Because deep learning methods achieved better performance in general, Prosa.ai decided to develop the AI model by using one of deep learning methods.
+Motivated by the above background, We will create an API service for sentiment analysis. Thus, We must develop an AI model that predicts the sentiment of a text whether it is positive or negative. Because deep learning methods achieved better performance in general, Prosa.ai decided to develop the AI model by using one of deep learning methods.
 
 Solution
 ========
