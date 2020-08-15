@@ -1,6 +1,6 @@
 # Machine Learning Notes
 
-my notes for what i learn from machine learning method
+my notes for what i have learned in machine learning
 
 ## [Supervised Learning](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning)
 1. [Decision Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/Decision%20Tree)
