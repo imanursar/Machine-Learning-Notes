@@ -13,6 +13,7 @@ my notes for what i learn from machine learning method
 2. [Text Generation](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_generation)
 3. [Text Summarization](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_summarization)
 4. [Text Manipulation](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_manipulation)
+5. [Facebook FastText Library](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/Facebook%20FastText%20Library)
 
 ## [Tunning Model](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Tunning_model)
 1. [Grid Search](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/Grid%20Search%20Optimization%20Algorithm%20in%20Python.ipynb)
