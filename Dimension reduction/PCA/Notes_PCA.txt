@@ -1,0 +1,11 @@
+Incremental PCA
+from sklearn.decomposition import IncrementalPCA
+	perform PCA incrementally in small batches, where each batch is able to fit in memory
+
+Sparse PCA
+from sklearn.decomposition import KernelPCA
+	The sparse PCA algorithm searches for linear combinations in just some of the input variables, reducing the original feature space to some degree but not as compactly as normal PCA.
+
+kernel PCA
+from sklearn.decomposition import KernelPCA
+	which runs a similarity function over pairs of original data points in order to perform nonlinear dimensionality reduction.

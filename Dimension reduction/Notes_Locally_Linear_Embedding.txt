@@ -1,0 +1,5 @@
+Another popular nonlinear dimensionality reduction method is called locally linear embedding (LLE). This method preserves distances within local neighborhoods as it projects the data from the original feature space to a reduced space. LLE discovers the nonlinear structure in the original, high-dimensional data by segmenting the data into smaller components (i.e., into neighborhoods of points) and modeling each component as a linear embedding.
+
+# Locally Linear Embedding (LLE)
+from sklearn.manifold import LocallyLinearEmbedding
+

@@ -1,0 +1,7 @@
+Isomap
+
+Instead of linearly projecting the data from a high-dimensional space to a low-dimensional space, we can use nonlinear dimensionality reduction methods. These methods are collectively known as manifold learning.
+
+Like kernel PCA, Isomap learns a new, low-dimensional embedding of the original feature set by calculating the pairwise distances of all the points, where distance is curved or geodesic distance rather than Euclidean distance. In other words, it learns the intrinsic geometry of the original data based on where each point lies relative to its neighbors on a manifold
+
+from sklearn.manifold import Isomap

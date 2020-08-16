@@ -1,0 +1,8 @@
+reduce the rank of the original matrix of features to a smaller rank such
+that the original matrix can be recreated using a linear combination of some of the vectors in the smaller rank matrix. This is known as singular value decomposition (SVD)
+
+SVD keeps the vectors of the original matrix that have the most information (i.e., the highest singular value). The smaller rank matrix captures the most important elements of the original feature space
+
+PCA, which uses the eigen-decomposition of the covariance matrix to perform dimensionality reduction. SVD uses singular value decomposition
+
+from sklearn.decomposition import TruncatedSVD

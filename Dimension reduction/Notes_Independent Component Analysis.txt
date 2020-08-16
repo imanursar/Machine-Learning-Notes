@@ -1,0 +1,4 @@
+Using independent component analysis (ICA), we can separate these blended signals into their individual components. After the separation is complete, we can reconstruct any of the original features by adding together some combination of the individual components we generate.
+
+# Independent Component Analysis
+from sklearn.decomposition import FastICA

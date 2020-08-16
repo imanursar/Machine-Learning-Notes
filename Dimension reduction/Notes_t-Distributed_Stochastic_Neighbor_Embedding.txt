@@ -1,0 +1,8 @@
+t-distributed stochastic neighbor embedding (t-SNE) is a nonlinear dimensionality reduction technique for visualizing high-dimensional data.
+
+t-SNE accomplishes this by modeling each high-dimensional point into a two- or three-dimensional space, where similar points are modeled close to each other and dissimilar points are modeled farther away.
+
+It does this by constructing two probability distributions, one over pairs of points in the high-dimensional space and another over pairs of points in the low-dimensional space such that similar points have a highprobability and dissimilar points have a lower probability. Specifically, t-SNE minimizes the Kullback–Leibler divergence between the two probability distributions.
+
+In real-world applications of t-SNE, it is best to use another dimensionality reduction technique (such as PCA, as we do here) to reduce the number of dimensions before applying t-SNE.
+By applying another form of dimensionality reduction first, we reduce the noise in the features that are fed into t-SNE and speed up the computation of the algorithm

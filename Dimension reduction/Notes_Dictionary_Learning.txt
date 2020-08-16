@@ -1,0 +1,11 @@
+Dictionary Learning
+
+One such method is dictionary learning, which learns the sparse representation of the original data. The resulting matrix is known as the dictionary, and the vectors in the dictionary are known as atoms. These atoms are simple, binary vectors, populated by zeros and ones. Each instance in the original data can be reconstructed as a weighted sum of these atoms
+
+Assuming there are d features in the original data and n atoms in the dictionary, we can have a dictionary that is either undercomplete, where n < d, or overcomplete, where n > d.
+
+The undercomplete dictionary achieves dimensionality reduction, representing the original data with a fewer number of vectors, which is what we will focus on.
+
+There is a mini-batch version of dictionary learning that we will apply to our dataset of digits. As with the other dimensionality reduction methods, we will set the number of components. We will also set the batch size and the number of iterations to perform the training.
+
+from sklearn.decomposition import MiniBatchDictionaryLearning

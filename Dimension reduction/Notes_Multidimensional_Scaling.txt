@@ -1,0 +1,6 @@
+Multidimensional scaling (MDS) is a form of nonlinear dimensionality
+reduction that learns the similarity of points in the original dataset and,
+using this similarity learning, 
+
+from sklearn.manifold import MDS
+

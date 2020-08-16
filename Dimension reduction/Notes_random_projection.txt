@@ -1,0 +1,13 @@
+Gaussian Random Projection
+
+Johnson–Lindenstrauss lemma. 
+According to the Johnson–Lindenstrauss lemma, points in a high-dimensional space can be embedded into a much lower-dimensional space so that distances between the points are nearly preserved. In other words, even as we move from high-dimensional space to low-dimensional space, the relevant structure of the original feature set is preserved.
+
+from sklearn.random_projection import GaussianRandomProjection
+
+
+Sparse Random Projection
+
+It retains some degree of sparsity in the transformed feature set and is generally much more efficient, transforming the original data into the reduced space much faster than normal Gaussian random projection.
+
+from sklearn.random_projection import SparseRandomProjection
