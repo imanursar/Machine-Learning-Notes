@@ -52,4 +52,4 @@ my notes for what i have learned in machine learning
 6. [SHapley Additive exPlanations (SHAP)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/SHapley%20Additive%20exPlanations%20(SHAP).ipynb)
 
 ## [Dimension Reduction](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimension%20reduction)
-1. [PCA] (https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimension%20reduction/PCA)
+1. [PCA](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimension%20reduction/PCA)
