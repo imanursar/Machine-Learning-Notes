@@ -17,9 +17,11 @@ my notes for what i have learned in machine learning
 
 ## [Tunning Model](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Tunning_model)
 1. [Grid Search](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/Grid%20Search%20Optimization%20Algorithm%20in%20Python.ipynb)
-2. [Tunning with Nature Inspired Algorithms](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/Nature%20Inspired%20Algorithms%20for%20scikit-learn.ipynb)
-3. [Hyperopt](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/Parameter%20Tuning%20with%20Hyperopt.ipynb)
-4. [Keras tuner](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/keras%20tuner%20hiplot.ipynb)
+2. [GridSearchCV](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/GridSearchCV.ipynb)
+3. [Tunning with Nature Inspired Algorithms](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/Nature%20Inspired%20Algorithms%20for%20scikit-learn.ipynb)
+4. [Hyperopt](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/Parameter%20Tuning%20with%20Hyperopt.ipynb)
+5. [Keras tuner](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/keras%20tuner%20hiplot.ipynb)
+6. [Optuna](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/Efficient%20Hyperparameter%20Optimization%20Using%20Optuna.ipynb)
 
 ## [Autoencoders](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/AutoEncoders)
 1. [AutoEncoders vanilla](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/AutoEncoders/Autoencoders.ipynb)
@@ -49,3 +51,5 @@ my notes for what i have learned in machine learning
 5. [Random Forest Interpretation [ongoing]](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/Random%20forest%20interpretation%20%5Bongoing%5D.ipynb)
 6. [SHapley Additive exPlanations (SHAP)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/SHapley%20Additive%20exPlanations%20(SHAP).ipynb)
 
+## [Dimension Reduction](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimension%20reduction)
+1. [PCA] (https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimension%20reduction/PCA)
