@@ -55,7 +55,7 @@ The repository contains the work related to Machine Learning and some notes from
 1. [PCA](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimension%20reduction/PCA)
 
 ## [Image Processing](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Image%20Processing%20(CNN))
-1. [rock_paper_scissors (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/image__Classifier(rock_paper_scissors).ipynb)
+1. [rock_paper_scissors (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/image_Classifier(rock_paper_scissors).ipynb)
 2. [CIFAR 10 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/Keras_CNN_CIFAR10.ipynb)
 3. [MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/Keras_CNN_MNIST.ipynb)
 4. [Malaria (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/Custom_Images_Malaria.ipynb)
