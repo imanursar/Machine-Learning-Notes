@@ -59,3 +59,13 @@ The repository contains the work related to Machine Learning and some notes from
 2. [CIFAR 10 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/Keras_CNN_CIFAR10.ipynb)
 3. [MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/Keras_CNN_MNIST.ipynb)
 4. [Malaria (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/Custom_Images_Malaria.ipynb)
+
+## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
+1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
+2. [Decomposition and Exponential Smoothing](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Decomposition%20and%20Exponential%20Smoothing)
+3. [AR, MA and ARIMA](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/AR%2C%20MA%2C%20ARIMA)
+4. [Time Series Forecast with Machine Learning](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Time%20series%20forecast)
+5. [Time series with ARIMA](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Build%20High%20Performance%20Time%20Series%20Models%20using%20Auto%20ARIMA%20in%20Python.ipynb)
+6. [Change and convert time and date data](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Get%20the%20Current%20Date%20and%20Time.ipynb)
+7. [Sequence Problems with LSTM](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Solving%20Sequence%20Problems%20with%20LSTM%20in%20Keras.ipynb)
+8. [Time Series Prediction using LSTM and PyTorch](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Time%20Series%20Prediction%20using%20LSTM%20with%20PyTorch%20in%20Python%20.ipynb)
