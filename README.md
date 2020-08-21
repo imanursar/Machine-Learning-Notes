@@ -59,6 +59,7 @@ The repository contains the work related to Machine Learning and some notes from
 2. [CIFAR 10 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/Keras_CNN_CIFAR10.ipynb)
 3. [MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/Keras_CNN_MNIST.ipynb)
 4. [Malaria (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/Custom_Images_Malaria.ipynb)
+5. [Fashion MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image%20classification/Keras_CNN_Fashion_MNIST.ipynb)
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
