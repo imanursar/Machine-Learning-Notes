@@ -14,6 +14,11 @@ The repository contains the work related to Machine Learning and some notes from
 3. [Text Summarization](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_summarization)
 4. [Text Manipulation](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_manipulation)
 5. [Facebook FastText Library](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/Facebook%20FastText%20Library)
+6. [Bag of word](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/NLP/Bag%20of%20Words%20Model.ipynb)
+7. [TF-IDF](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/NLP/TF-IDF%20Model.ipynb)
+8. [Word2Vec](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/word2vec)
+    - [Word2Vec with Gensim](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/NLP/word2vec/Word2Vec%20with%20Gensim%20Library.ipynb)
+    - [Word2Vec with skip-gram](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/NLP/word2vec/Word2vec%20-%20skip-gram%20algorithm.ipynb)
 
 ## [Tunning Model](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Tunning_model)
 1. [Grid Search](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/Grid%20Search%20Optimization%20Algorithm%20in%20Python.ipynb)
