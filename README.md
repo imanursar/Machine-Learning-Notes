@@ -117,6 +117,6 @@ The repository contains the work related to Machine Learning and some notes from
 2. [Cosine similarity](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Recommendation%20Engine/Cosine%20similarity.ipynb)
 
 ## [Geospacial](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial)
-1. [Unsupervised PCA 0& K-Means](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/Unsupervised%20PCA%20&%20K-Means)
+1. [Unsupervised PCA & K-Means](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/Unsupervised%20PCA%20&%20K-Means)
 2. [Unsupervised Deep Slow Feature Analysis](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/Unsupervised%20Deep%20Slow%20Feature%20Analysis)
 3. [Supervised DSMS-FCN](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/supervised%20DSMS-FCN)
