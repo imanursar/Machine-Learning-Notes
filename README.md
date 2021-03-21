@@ -100,7 +100,8 @@ The repository contains the work related to Machine Learning and some notes from
 8. [Time Series Prediction using LSTM and PyTorch](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Time%20Series%20Prediction%20using%20LSTM%20with%20PyTorch%20in%20Python%20.ipynb)
 
 ## [Clustering](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Clustering)
-1. [Simple Customer 0Segmentation Using RFM Analysis](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Clustering/Simple%20Customer%20Segmentation%20Using%20RFM%20Analysis.ipynb)
+1. [Simple Customer Segmentation Using RFM Analysis](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Clustering/Simple%20Customer%20Segmentation%20Using%20RFM%20Analysis.ipynb)
+2. [Select Optimal Number of Clusters](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Clustering/optimal%20number%20of%20clusters%20in%20Python.ipynb)
 
 ## [Quality Control Case](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Quality%20Control%20Case)
 1. [Predictive Maintenance detect Faults from Sensors with CNN](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Quality%20Control%20Case/Predictive%20Maintenance%20detect%20Faults%20from%20Sensors%20with%20CNN.ipynb)
