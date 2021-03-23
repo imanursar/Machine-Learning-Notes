@@ -98,6 +98,7 @@ The repository contains the work related to Machine Learning and some notes from
 6. [Change and convert time and date data](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Get%20the%20Current%20Date%20and%20Time.ipynb)
 7. [Sequence Problems with LSTM](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Solving%20Sequence%20Problems%20with%20LSTM%20in%20Keras.ipynb)
 8. [Time Series Prediction using LSTM and PyTorch](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Time%20Series%20Prediction%20using%20LSTM%20with%20PyTorch%20in%20Python%20.ipynb)
+9. [Predict Visitor Forecasting](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Visitor%20Forecasting.ipynb)
 
 ## [Clustering](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Clustering)
 1. [Simple Customer Segmentation Using RFM Analysis](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Clustering/Simple%20Customer%20Segmentation%20Using%20RFM%20Analysis.ipynb)
