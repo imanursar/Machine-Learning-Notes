@@ -59,6 +59,7 @@ The repository contains the work related to Machine Learning and some notes from
 3. [Anomaly detection with Scikit-learn](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/outlier%20and%20novelty%20detection.ipynb)
 4. [Anomaly detection with AutoEncoders](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/Anomaly%20Detection%20with%20Autoencoders.ipynb)
 5. [Python Outlier Detection (PyOD)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/The%20Python%20Outlier%20Detection%20(PyOD).ipynb)
+6. [Anomaly detection with Isolation Forest](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/Anomaly%20detection%20with%20isolation%20forest.ipynb)
 
 ## [Association Rule](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Association%20Rule)
 1. [Apriori](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Association%20Rule(Apriori)%20.ipynb)
