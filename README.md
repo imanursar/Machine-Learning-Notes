@@ -69,6 +69,7 @@ The repository contains the work related to Machine Learning and some notes from
 12. [Anomaly detection using Variational AutoEncoders](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty,%20Anomaly%20and%20Outlier%20Detection/Anomaly%20Detection%20with%20Variational%20Autoencoder.ipynb)
 13. [Denoising - Autoencoder](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty,%20Anomaly%20and%20Outlier%20Detection/Denoising%20-%20Autoencoder.ipynb)
 14. [Anomaly Detection using the Restricted Boltzmann machines (RBM)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty,%20Anomaly%20and%20Outlier%20Detection/Anomaly%20Detection%20with%20the%20Restricted%20Boltzmann%20machines%20(RBM).ipynb)
+15. [Anomaly detection with LSTM (time series data)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty,%20Anomaly%20and%20Outlier%20Detection/Anomaly%20detection%20with%20LSTM%20(time%20series%20data).ipynb)
 
 ## [Association Rule](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Association%20Rule)
 1. [Apriori](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Association%20Rule(Apriori)%20.ipynb)
