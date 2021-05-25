@@ -70,6 +70,8 @@ The repository contains the work related to Machine Learning and some notes from
 13. [Denoising - Autoencoder](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty,%20Anomaly%20and%20Outlier%20Detection/Denoising%20-%20Autoencoder.ipynb)
 14. [Anomaly Detection using the Restricted Boltzmann machines (RBM)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty,%20Anomaly%20and%20Outlier%20Detection/Anomaly%20Detection%20with%20the%20Restricted%20Boltzmann%20machines%20(RBM).ipynb)
 15. [Anomaly detection with LSTM (time series data)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty,%20Anomaly%20and%20Outlier%20Detection/Anomaly%20detection%20with%20LSTM%20(time%20series%20data).ipynb)
+16. [Anomaly Detection with Temporal convolutional networks (TCN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty,%20Anomaly%20and%20Outlier%20Detection/Anomaly%20Detection%20with%20Temporal%20convolutional%20networks%20(TCN).ipynb)
+17. [Anomaly Detection with Encoder Decoder - Temporal convolutional networks (ED - TCN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty,%20Anomaly%20and%20Outlier%20Detection/Anomaly%20Detection%20with%20Encoder%20Decoder%20-%20Temporal%20convolutional%20networks%20(ED%20-%20TCN).ipynb)
 
 ## [Association Rule](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Association%20Rule)
 1. [Apriori](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Association%20Rule/Association%20Rule(Apriori)%20.ipynb)
