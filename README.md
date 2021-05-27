@@ -102,6 +102,7 @@ The repository contains the work related to Machine Learning and some notes from
 6. [Fashion MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_Fashion_MNIST.ipynb)
 7. [LeNet](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Image%20Processing%20(CNN)/LeNet)
     - [LeNet for classification](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/LeNet/LeNet_in_CNN.ipynb)
+8. [EAST - Text Detector](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/EAST%20-%20An%20Efficient%20and%20Accurate%20Scene%20Text%20Detector.ipynb)
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
