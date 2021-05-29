@@ -49,6 +49,9 @@ The repository contains the work related to Machine Learning and some notes from
 5. [Keras tuner](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/keras%20tuner%20hiplot.ipynb)
 6. [Optuna](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Tunning%20model/Efficient%20Hyperparameter%20Optimization%20Using%20Optuna.ipynb)
 
+## [Neural Network](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Neural%20Network)
+1. [Basic Neural Network](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Neural%20Network/Basic%20Neural%20Network.ipynb)
+
 ## [Autoencoders](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/AutoEncoders)
 1. [AutoEncoders vanilla](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/AutoEncoders/Autoencoders.ipynb)
 2. [AutoEncoders denoiser](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/AutoEncoders/Autoencoders%20on%20Image%20Data%20noise%20removal.ipynb)
