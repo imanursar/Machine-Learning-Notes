@@ -97,16 +97,18 @@ The repository contains the work related to Machine Learning and some notes from
 1. [PCA](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimension%20reduction/PCA)
 
 ## [Image Processing](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Image%20Processing%20(Neural%20Network))
-1. [Rock_paper_scissors (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image_Classifier(rock_paper_scissors).ipynb)
-2. [CIFAR 10 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_CIFAR10.ipynb)
-3. [CIFAR 10 v2 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_CIFAR10%20v2.ipynb)
-4. [MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_MNIST.ipynb)
-5. [Malaria (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Custom_Images_Malaria.ipynb)
-6. [Fashion MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_Fashion_MNIST.ipynb)
-7. [LeNet](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Image%20Processing%20(CNN)/LeNet)
+1. Simple CNN
+    1. [Rock_paper_scissors (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image_Classifier(rock_paper_scissors).ipynb)
+    2. [CIFAR 10 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_CIFAR10.ipynb)
+    3. [CIFAR 10 v2 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_CIFAR10%20v2.ipynb)
+    4. [MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_MNIST.ipynb)
+2. Simple CNN with ImageDataGenerator
+    1. [Malaria (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Custom_Images_Malaria.ipynb)
+    2. [Fashion MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_Fashion_MNIST.ipynb)
+3. [LeNet](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Image%20Processing%20(CNN)/LeNet)
     - [LeNet for classification](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/LeNet/LeNet_in_CNN.ipynb)
-8. [EAST - Text Detector](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/EAST%20-%20An%20Efficient%20and%20Accurate%20Scene%20Text%20Detector.ipynb)
-9. [Y-Network CNN](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(Neural%20Network)/Y-Network%20CNN.ipynb)
+4. [EAST - Text Detector](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/EAST%20-%20An%20Efficient%20and%20Accurate%20Scene%20Text%20Detector.ipynb)
+5. [Y-Network CNN](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(Neural%20Network)/Y-Network%20CNN.ipynb)
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
