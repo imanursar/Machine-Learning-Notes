@@ -96,7 +96,7 @@ The repository contains the work related to Machine Learning and some notes from
 ## [Dimensional Reduction](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimensional%20reduction)
 1. [PCA](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimension%20reduction/PCA)
 
-## [Image Processing](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Image%20Processing%20(CNN))
+## [Image Processing](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Image%20Processing%20(Neural%20Network))
 1. [Rock_paper_scissors (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/image_Classifier(rock_paper_scissors).ipynb)
 2. [CIFAR 10 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_CIFAR10.ipynb)
 3. [CIFAR 10 v2 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_CIFAR10%20v2.ipynb)
