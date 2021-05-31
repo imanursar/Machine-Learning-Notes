@@ -102,7 +102,7 @@ The repository contains the work related to Machine Learning and some notes from
     2. [CIFAR 10 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_CIFAR10.ipynb)
     3. [CIFAR 10 v2 (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_CIFAR10%20v2.ipynb)
     4. [MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_MNIST.ipynb)
-2. Simple CNN with ImageDataGenerator
+2. Simple CNN with Image Data Generator
     1. [Malaria (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Custom_Images_Malaria.ipynb)
     2. [Fashion MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_Fashion_MNIST.ipynb)
 3. [LeNet](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Image%20Processing%20(CNN)/LeNet)
