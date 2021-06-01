@@ -51,6 +51,7 @@ The repository contains the work related to Machine Learning and some notes from
 
 ## [Neural Network](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Neural%20Network)
 1. [Basic Neural Network](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Neural%20Network/Basic%20Neural%20Network.ipynb)
+2. [Deep Neural Networks](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Neural%20Network/Deep%20Neural%20Networks.ipynb)
 
 ## [Autoencoders](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/AutoEncoders)
 1. [AutoEncoders vanilla](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/AutoEncoders/Autoencoders.ipynb)
