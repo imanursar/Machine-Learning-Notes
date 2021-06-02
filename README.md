@@ -110,7 +110,10 @@ The repository contains the work related to Machine Learning and some notes from
     - [LeNet for classification](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/LeNet/LeNet_in_CNN.ipynb)
 4. [EAST - Text Detector](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/EAST%20-%20An%20Efficient%20and%20Accurate%20Scene%20Text%20Detector.ipynb)
 5. [Y-Network CNN](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(Neural%20Network)/Y-Network%20CNN.ipynb)
-6. [Resnet on the CIFAR10 dataset](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Resnet%20on%20the%20CIFAR10%20dataset.ipynb)
+6. [ResNet]
+    - [Resnet on the CIFAR10 dataset](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Resnet%20on%20the%20CIFAR10%20dataset.ipynb)
+7. [DenseNet]
+    - [DenseNet on the CIFAR10 dataset](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/DenseNet%20on%20the%20CIFAR10%20dataset.ipynb)
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
