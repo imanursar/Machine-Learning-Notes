@@ -115,6 +115,8 @@ The repository contains the work related to Machine Learning and some notes from
     - [Resnet on the CIFAR10 dataset](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Resnet%20on%20the%20CIFAR10%20dataset.ipynb)
 7. [DenseNet]
     - [DenseNet on the CIFAR10 dataset](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/DenseNet%20on%20the%20CIFAR10%20dataset.ipynb)
+8. [Automatic colorization autoencoder](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Automatic%20colorization%20autoencoder.ipynb)
+
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
