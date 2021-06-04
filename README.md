@@ -146,6 +146,7 @@ The repository contains the work related to Machine Learning and some notes from
 1. [Extreme Event Forecasting with LSTM Autoencoders](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Rare%20Event/Extreme%20Event%20Forecasting%20with%20LSTM%20Autoencoders.ipynb)
 2. [Remaining Life Estimation](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Rare%20Event/Remaining%20Life%20Estimation.ipynb)
 3. [Survival Analysis with LightGBM plus Poisson Regression](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Rare%20Event/Survival%20Analysis%20with%20LightGBM%20plus%20Poisson%20Regression.ipynb)
+4. [LSTM Autoencoder for Extreme Rare Event Classification](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Rare%20Event/LSTM%20Autoencoder%20for%20Extreme%20Rare%20Event%20Classification.ipynb)
 
 ## [Recommendation Engine](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Recommendation%20Engine)
 1. [Movie Lens Collaborative Filtering](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Recommendation%20Engine/Movie%20Lens%20Collaborative%20Filtering.ipynb)
