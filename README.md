@@ -60,6 +60,9 @@ The repository contains the work related to Machine Learning and some notes from
 3. [Autoencoders are related to PCA [ongoing]](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/AutoEncoders/Autoencoders%20are%20directly%20related%20to%20Principal%20Component%20Analysis%20(PCA)%20%5BONGOING_difference_result%5D.ipynb)
 4. [Denoising - Autoencoder](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/AutoEncoders/Denoising%20-%20Autoencoder.ipynb)
 
+## [Generative Adversarial Networks (GANs)](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Generative%20Adversarial%20Networks%20(GANs))
+1. [Deep Convolutional GAN - (DCGAN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Generative%20Adversarial%20Networks%20(GANs)/Deep%20Convolutional%20GAN%20-%20(DCGAN).ipynb)
+
 ## [Novelty, Anomaly and Outlier Detection](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Novelty,%20Anomaly%20and%20Outlier%20Detection)
 1.  [Anomaly detection vanilla](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/Anomaly%20Detection.ipynb)
 2.  [Anomaly detection using PCA [ongoing]](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/Anomaly%20Detection%20%20with%20PCA.ipynb)
