@@ -9,7 +9,7 @@ The repository contains the work related to Machine Learning and some notes from
 4. [GPBoost Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/GPBoost)
 5. [One-vs-Rest and One-vs-One for Multi-Class Classification](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/Multi-Class%20Classification/One-vs-Rest%20and%20One-vs-One%20for%20Multi-Class%20Classification.ipynb)
 6. [Ensemble Method (Hard and Soft Voting)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/ensemble/ensemble%20method%20(hard%20and%20soft%20voting).ipynb)
-6. [Thesis](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis)
+7. [Thesis](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis)
     1.  [Decision Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/Decision%20Tree)
     2.  [Bagging for DT](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/Bagging%20for%20DT)
     3.  [Random Forest](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/Random%20Forest)
