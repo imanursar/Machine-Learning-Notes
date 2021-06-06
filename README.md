@@ -54,6 +54,7 @@ The repository contains the work related to Machine Learning and some notes from
 1. [Basic Neural Network](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Neural%20Network/Basic%20Neural%20Network.ipynb)
 2. [Deep Neural Networks](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Neural%20Network/Deep%20Neural%20Networks.ipynb)
 3. [Generative Adversarial Networks (GANs)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Neural%20Network/Generative%20Adversarial%20Networks%20(GANs).ipynb)
+4. [Improved GANs](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Neural%20Network/Improved%20GANs.ipynb)
 
 ## [Autoencoders](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/AutoEncoders)
 1. [AutoEncoders vanilla](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/AutoEncoders/Autoencoders.ipynb)
@@ -64,7 +65,6 @@ The repository contains the work related to Machine Learning and some notes from
 ## [Generative Adversarial Networks (GANs)](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Generative%20Adversarial%20Networks%20(GANs))
 1. [Deep Convolutional GAN - (DCGAN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Generative%20Adversarial%20Networks%20(GANs)/Deep%20Convolutional%20GAN%20-%20(DCGAN).ipynb)
 2. [Conditional GAN - (CGAN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Generative%20Adversarial%20Networks%20(GANs)/Conditional%20GAN%20-%20(CGAN).ipynb)
-3. [Improved GANs](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Neural%20Network/Improved%20GANs.ipynb)
 
 ## [Novelty, Anomaly and Outlier Detection](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Novelty,%20Anomaly%20and%20Outlier%20Detection)
 1.  [Anomaly detection vanilla](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty%20and%20Outlier%20Detection/Anomaly%20Detection.ipynb)
