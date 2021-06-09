@@ -156,6 +156,9 @@ The repository contains the work related to Machine Learning and some notes from
 1. [Movie Lens Collaborative Filtering](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Recommendation%20Engine/Movie%20Lens%20Collaborative%20Filtering.ipynb)
 2. [Cosine similarity](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Recommendation%20Engine/Cosine%20similarity.ipynb)
 
+## [Sound](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Sound)
+1. [Speech Recognition](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Sound/Speech%20Recognition%20with%20Python.ipynb)
+
 ## [Geospacial](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial)
 1. Change Detection in Multitemporal Remote Sensing Images
     1. [Unsupervised PCA & K-Means](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/Unsupervised%20PCA%20&%20K-Means)
