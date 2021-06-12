@@ -2,6 +2,9 @@
 
 The repository contains the work related to Machine Learning and some notes from what i have learned in machine learning.
 
+## [Exploratory Data Analysis (EDA)](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/EDA)
+1.[Description Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/EDA/Description%20Function.ipynb)
+
 ## [Supervised Learning](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning)
 1. [Decision Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/Decision%20Tree)
 2. [Random Forest](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/Random%20Forest)
