@@ -4,6 +4,7 @@ The repository contains the work related to Machine Learning and some notes from
 
 ## [Exploratory Data Analysis (EDA)](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/EDA)
 1. [Description Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/EDA/Description%20Function.ipynb)
+2. [Visual Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/EDA/Visual%20Function.ipynb)
 2. [Advance Visual Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/EDA/Advance%20Visual%20Function.ipynb)
 
 ## [Supervised Learning](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning)
