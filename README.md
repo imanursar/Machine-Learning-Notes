@@ -2,7 +2,7 @@
 
 The repository contains the work related to Machine Learning and some notes from what i have learned in machine learning.
 
-## [Custom Function](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/EDA)
+## [Custom Function](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Custom%20Function)
 1. [Description Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Description%20Function.ipynb)
 2. [Visual Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Visual%20Function.ipynb)
 2. [Advance Visual Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Advance%20Visual%20Function.ipynb)
