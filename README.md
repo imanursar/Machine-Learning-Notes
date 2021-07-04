@@ -7,6 +7,8 @@ The repository contains the work related to Machine Learning and some notes from
 2. [Visual Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Visual%20Function.ipynb)
 2. [Advance Visual Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Advance%20Visual%20Function.ipynb)
 4. [Feature Engineering Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Feature%20Engineering%20Function.ipynb)
+5. [Feature Importance Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Feature%20Importance%20Function.ipynb)
+6. [Scoring Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Scoring%20Function.ipynb)
 
 ## [Supervised Learning](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning)
 1. [Decision Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/Decision%20Tree)
