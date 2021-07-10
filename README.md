@@ -83,6 +83,7 @@ The repository contains the work related to Machine Learning and some notes from
 1. [Deep Convolutional GAN - (DCGAN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Generative%20Adversarial%20Networks%20(GANs)/Deep%20Convolutional%20GAN%20-%20(DCGAN).ipynb)
 2. [Conditional GAN - (CGAN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Generative%20Adversarial%20Networks%20(GANs)/Conditional%20GAN%20-%20(CGAN).ipynb)
 3. [Wasserstein GAN - (WGAN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Generative%20Adversarial%20Networks%20(GANs)/Wasserstein%20GAN%20(WGAN).ipynb)
+4. [Least-squares GAN - (LSGAN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Generative%20Adversarial%20Networks%20(GANs)/Least-squares%20GAN%20(LSGAN).ipynb)
 
 ## [Novelty, Anomaly and Outlier Detection](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Novelty,%20Anomaly%20and%20Outlier%20Detection)
 1.  [Anomaly detection vanilla](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Novelty,%20Anomaly%20and%20Outlier%20Detection/Anomaly%20Detection.ipynb)
