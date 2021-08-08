@@ -49,6 +49,7 @@ The repository contains the work related to Machine Learning and some notes from
 ## [NLP](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/)
 1. [Text Classification](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_classification)
     - [AT_PA text classification](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_classification/AT_PA_text_classification)
+    - [Text Classification - Simple NLP with multilabel](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/NLP/text_classification/Text%20Classification%20-%20Simple%20NLP%20with%20multilabel.ipynb)
 2. [Text Generation](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_generation)
 3. [Text Summarization](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_summarization)
 4. [Text Manipulation](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_manipulation)
