@@ -45,6 +45,8 @@ The repository contains the work related to Machine Learning and some notes from
     14. [Stochastic Gradient Descent (SGD)](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/Stochastic%20Gradient%20Descent%20(SGD))
     15. [ROC](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/ROC)
         
+## [Preprocessing](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Preprocessing)
+1. [Weight of Evidence (WOE) and Information Value (IV)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Preprocessing/Weight%20of%20Evidence%20(WOE)%20and%20Information%20Value%20(IV).ipynb)
 
 ## [NLP](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/)
 1. [Text Classification](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/NLP/text_classification)
