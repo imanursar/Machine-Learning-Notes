@@ -28,6 +28,7 @@ The repository contains the work related to Machine Learning and some notes from
 6. [Ensemble Methods](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/ensemble)
     1. [Ensemble Method (Hard and Soft Voting)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/ensemble/ensemble%20method%20(hard%20and%20soft%20voting).ipynb)
     2. [Weighted Average Ensembles](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/ensemble/Weighted%20Average%20Ensembles.ipynb)
+    3. [Dynamic Ensemble Selection (DES)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/ensemble/Dynamic%20Ensemble%20Selection%20(DES).ipynb)
 7. [Thesis](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis)
     1.  [Decision Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/Decision%20Tree)
     2.  [Bagging for DT](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/Bagging%20for%20DT)
