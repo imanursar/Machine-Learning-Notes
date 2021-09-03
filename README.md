@@ -14,6 +14,8 @@ The repository contains the work related to Machine Learning and some notes from
 9. [Statistic Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Statistic%20Function.ipynb)
 10. [Model Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Model%20Function.ipynb)
 11. [Map Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Map%20Function.ipynb)
+12. [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Time%20Series%20Function.ipynb)
+13. [Tunning Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Tunning%20Function.ipynb)
 
 ## [Supervised Learning](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning)
 1. [Decision Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/Decision%20Tree)
