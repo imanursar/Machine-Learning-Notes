@@ -16,6 +16,7 @@ The repository contains the work related to Machine Learning and some notes from
 11. [Map Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Map%20Function.ipynb)
 12. [Time Series Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Time%20Series%20Function.ipynb)
 13. [Tunning Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Tunning%20Function.ipynb)
+14. [Interpretable Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Interpretable%20Function.ipynb)
 
 ## [Supervised Learning](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning)
 1. [Decision Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/Decision%20Tree)
@@ -134,6 +135,7 @@ The repository contains the work related to Machine Learning and some notes from
 4. [Partial Dependence Plot (PDP)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/Partial%20Dependence%20Plot%20(PDP).ipynb)
 5. [Random Forest Interpretation [ongoing]](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/Random%20forest%20interpretation%20%5Bongoing%5D.ipynb)
 6. [SHapley Additive exPlanations (SHAP)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/SHapley%20Additive%20exPlanations%20(SHAP).ipynb)
+7. [Interpretable Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/Interpretable%20Function.ipynb)
 
 ## [Dimensional Reduction](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimensional%20reduction)
 1. [PCA](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimension%20reduction/PCA)
