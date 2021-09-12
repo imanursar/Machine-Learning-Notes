@@ -47,7 +47,14 @@ The repository contains the work related to Machine Learning and some notes from
     13. [SVM Sigmoid](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/SVM%20Sigmoid)
     14. [Stochastic Gradient Descent (SGD)](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/Stochastic%20Gradient%20Descent%20(SGD))
     15. [ROC](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/ROC)
-        
+8. Use cases
+    1. [Ruang_Guru - Predict Probability of Correct Answer](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/Use%20Case/Ruang_Guru%20-%20Predict%20Probability%20of%20Correct%20Answer)
+        1. [Dataset](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/Use%20Case/Ruang_Guru%20-%20Predict%20Probability%20of%20Correct%20Answer/data)
+        2. [Result](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/Use%20Case/Ruang_Guru%20-%20Predict%20Probability%20of%20Correct%20Answer/result)
+        3. [Test Context](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/Use%20Case/Ruang_Guru%20-%20Predict%20Probability%20of%20Correct%20Answer/Test%20Context.pdf)
+        4. [Result in ipynb](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/Use%20Case/Ruang_Guru%20-%20Predict%20Probability%20of%20Correct%20Answer/Test%20Assignment%20Result.ipynb)
+        5. [Result in PDF](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/Use%20Case/Ruang_Guru%20-%20Predict%20Probability%20of%20Correct%20Answer/Test%20Assignment%20Result.pdf)
+
 ## [Preprocessing](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Preprocessing)
 1. [Weight of Evidence (WOE) and Information Value (IV)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Preprocessing/Weight%20of%20Evidence%20(WOE)%20and%20Information%20Value%20(IV).ipynb)
 
@@ -193,3 +200,5 @@ The repository contains the work related to Machine Learning and some notes from
     3. [Supervised DSMS-FCN](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/supervised%20DSMS-FCN)
 2. Image-to-Image Translation
     1. [Pix2Pix GAN](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/Pix2pix%20GAN)
+3. [Map Data Visualization](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/Map%20Data%20Visualization)
+    1. [Map Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/geospacial/Map%20Data%20Visualization/Map%20Function.ipynb)
