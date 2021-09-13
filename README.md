@@ -138,7 +138,7 @@ The repository contains the work related to Machine Learning and some notes from
 7. [Interpretable Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Interpretable%20model/Interpretable%20Function.ipynb)
 
 ## [Dimensional Reduction](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimensional%20reduction)
-1. [PCA](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimension%20reduction/PCA)
+1. [PCA](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimensional%20reduction/PCA)
 
 ## [Computer Vision](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Computer%20Vision)
 1. Simple CNN
