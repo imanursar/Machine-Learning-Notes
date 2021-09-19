@@ -17,6 +17,8 @@ The repository contains the work related to Machine Learning and some notes from
 12. [Time Series Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Time%20Series%20Function.ipynb)
 13. [Tunning Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Tunning%20Function.ipynb)
 14. [Interpretable Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Interpretable%20Function.ipynb)
+15. [Cluster Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Cluster%20Function.ipynb)
+16. [Generate Data Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Custom%20Function/Generate%20Data%20Function.ipynb)
 
 ## [Supervised Learning](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning)
 1. [Decision Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/Decision%20Tree)
@@ -32,6 +34,7 @@ The repository contains the work related to Machine Learning and some notes from
     1. [Ensemble Method (Hard and Soft Voting)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/ensemble/ensemble%20method%20(hard%20and%20soft%20voting).ipynb)
     2. [Weighted Average Ensembles](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/ensemble/Weighted%20Average%20Ensembles.ipynb)
     3. [Dynamic Ensemble Selection (DES)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/ensemble/Dynamic%20Ensemble%20Selection%20(DES).ipynb)
+    4. [Super Learner Ensembles](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Supervised%20Learning/ensemble/Super%20Learner%20Ensembles.ipynb)
 7. [Thesis](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis)
     1.  [Decision Tree](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/Decision%20Tree)
     2.  [Bagging for DT](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Supervised%20Learning/thesis/Bagging%20for%20DT)
@@ -139,6 +142,7 @@ The repository contains the work related to Machine Learning and some notes from
 
 ## [Dimensional Reduction](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimensional%20reduction)
 1. [PCA](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Dimensional%20reduction/PCA)
+2. [RBF Kernel Principal Component Analysis (RBF PCA)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Dimensional%20reduction/PCA/RBF%20Kernel%20Principal%20Component%20Analysis%20(RBF%20PCA).ipynb)
 
 ## [Computer Vision](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Computer%20Vision)
 1. Simple CNN
@@ -160,6 +164,7 @@ The repository contains the work related to Machine Learning and some notes from
 8. [Automatic Colorization Autoencoder](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Automatic%20colorization%20autoencoder.ipynb)
 9. [Mobile Net V2]
     - [Image Classification - MobileNetV2 - imagenette2](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20classification%20-%20MobileNetV2%20-%20imagenette2.ipynb)
+10. [Image Processing Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Image%20Processing%20Function.ipynb)
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
@@ -176,6 +181,7 @@ The repository contains the work related to Machine Learning and some notes from
 1. [Simple Customer Segmentation Using RFM Analysis](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Clustering/Simple%20Customer%20Segmentation%20Using%20RFM%20Analysis.ipynb)
 2. [Select Optimal Number of Clusters](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Clustering/optimal%20number%20of%20clusters%20in%20Python.ipynb)
 3. [Customer Segmentation Using Cohort and RFM Analysis](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Clustering/Customer%20Segmentation%20(cohort,%20RFM).ipynb)
+4. [Cluster Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Clustering/Cluster%20Function.ipynb)
 
 ## [Quality Control Case](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Quality%20Control%20Case)
 1. [Predictive Maintenance detect Faults from Sensors with CNN](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Quality%20Control%20Case/Predictive%20Maintenance%20detect%20Faults%20from%20Sensors%20with%20CNN.ipynb)
