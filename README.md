@@ -166,7 +166,7 @@ The repository contains the work related to Machine Learning and some notes from
     - [Image Classification - MobileNetV2 - imagenette2](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20classification%20-%20MobileNetV2%20-%20imagenette2.ipynb)
 10. [Image Processing Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Image%20Processing%20Function.ipynb)
 11. [Live Sketch Using Webcam](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Live%20Sketch%20Using%20Webcam.ipynb)
-12. [Contours in image processing](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Image%20Processing%20Function.ipynb)
+12. [Contours in image processing](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Contours%20in%20image%20processing.ipynb)
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
