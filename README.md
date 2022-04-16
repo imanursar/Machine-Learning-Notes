@@ -165,9 +165,9 @@ The repository contains the work related to Machine Learning and some notes from
 9. [Mobile Net V2]
     - [Image Classification - MobileNetV2 - imagenette2](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20classification%20-%20MobileNetV2%20-%20imagenette2.ipynb)
 10. [Image processing](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Computer%20Vision/image%20processing)
-10. [Image Processing Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Mini%20Project%20-%20Identifying%20Contours%20by%20Shape.ipynb)
-11. [Live Sketch Using Webcam](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Live%20Sketch%20Using%20Webcam.ipynb)
-12. [Contours in image processing](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Contours%20in%20image%20processing.ipynb)
+    - [Image Processing Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Mini%20Project%20-%20Identifying%20Contours%20by%20Shape.ipynb)
+    - [Live Sketch Using Webcam](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Live%20Sketch%20Using%20Webcam.ipynb)
+    - [Contours in image processing](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Contours%20in%20image%20processing.ipynb)
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
