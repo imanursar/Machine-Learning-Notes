@@ -165,9 +165,16 @@ The repository contains the work related to Machine Learning and some notes from
 9. [Mobile Net V2]
     - [Image Classification - MobileNetV2 - imagenette2](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20classification%20-%20MobileNetV2%20-%20imagenette2.ipynb)
 10. [Image processing](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Computer%20Vision/image%20processing)
-    - [Image Processing Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Mini%20Project%20-%20Identifying%20Contours%20by%20Shape.ipynb)
-    - [Live Sketch Using Webcam](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Live%20Sketch%20Using%20Webcam.ipynb)
     - [Contours detection in image processing](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Contours%20detection%20in%20image%20processing.ipynb)
+    - [Histogram of Oriented Gradients](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Histogram%20of%20Oriented%20Gradients.ipynb)
+    - [Line Detection](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Line%20Detection.ipynb)
+    - [SIFT, SURF, FAST, BRIEF & ORB](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/SIFT,%20SURF,%20FAST,%20BRIEF%20&%20ORB.ipynb)
+    - [Mini Project - Identifying Contours by Shape](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Mini%20Project%20-%20Identifying%20Contours%20by%20Shape.ipynb)
+    - [Mini Project - Counting Circles and Ellipses](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Mini%20Project%20-%20Counting%20Circles%20and%20Ellipses%20.ipynb)
+    - [Mini Project - Finding Waldo](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Mini%20Project%20-%20Finding%20Waldo.ipynb)
+    - [Live Video - Sketch Using Webcam](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Live%20Sketch%20Using%20Webcam.ipynb)
+    - [Live Video - Object Detection using SIFT & ORB](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Mini%20Project%20-%20Object%20Detection%20using%20SIFT%20&%20ORB.ipynb)
+    - [Live Video - Face & Eye Detection](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Face%20&%20Eye%20Detection.ipynb)
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
