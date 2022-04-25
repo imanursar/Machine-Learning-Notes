@@ -175,6 +175,9 @@ The repository contains the work related to Machine Learning and some notes from
     - [Live Video - Sketch Using Webcam](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Live%20Sketch%20Using%20Webcam.ipynb)
     - [Live Video - Object Detection using SIFT & ORB](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Mini%20Project%20-%20Object%20Detection%20using%20SIFT%20&%20ORB.ipynb)
     - [Live Video - Face & Eye Detection](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/image%20processing/Face%20&%20Eye%20Detection.ipynb)
+11. [Face Recognition Using Local Binary Pattern Histograms](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Face%20Recognition%20Using%20Local%20Binary%20Pattern%20Histograms.ipynb)
+12. [Handwritten Digit Recognition and prediction with machine learning](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Handwritten%20Digit%20Recognition%20and%20prediction%20with%20machine%20learning.ipynb)
+
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
