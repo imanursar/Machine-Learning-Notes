@@ -153,8 +153,7 @@ The repository contains the work related to Machine Learning and some notes from
 2. Simple CNN with Image Data Generator
     1. [Malaria (simple CNN with ImageDataGenerator)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Custom_Images_Malaria.ipynb)
     2. [Fashion MNIST (simple CNN)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/Keras_CNN_Fashion_MNIST.ipynb)
-3. [LeNet](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Image%20Processing%20(CNN)/LeNet)
-    - [LeNet for classification](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/LeNet/LeNet_in_CNN.ipynb)
+3. [LeNet for classification](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/LeNet_in_CNN.ipynb)
 4. [EAST - Text Detector](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(CNN)/EAST%20-%20An%20Efficient%20and%20Accurate%20Scene%20Text%20Detector.ipynb)
 5. [Y-Network CNN](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Image%20Processing%20(Neural%20Network)/Y-Network%20CNN.ipynb)
 6. [ResNet]
