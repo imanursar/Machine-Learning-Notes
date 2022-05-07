@@ -237,3 +237,7 @@ The repository contains the work related to Machine Learning and some notes from
     1. [Pix2Pix GAN](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/Pix2pix%20GAN)
 3. [Map Data Visualization](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/Map%20Data%20Visualization)
     1. [Map Function](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/geospacial/Map%20Data%20Visualization/Map%20Function.ipynb)
+4. [Travelling salesman problem (TSP) and Vehicle routing problem (VSP)](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/geospacial/TSP%20-%20VRP)
+    1. [TSP-VSP](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/geospacial/TSP%20-%20VRP/map_external.ipynb)
+    2. [Result](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/geospacial/TSP%20-%20VRP/map_external.html)
+    3. [Result in interactive map](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/geospacial/TSP%20-%20VRP/jember.html)
