@@ -183,6 +183,9 @@ The repository contains the work related to Machine Learning and some notes from
 18. [Live Video - Face, Smile & Eye Detection](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Live%20Video%20-%20Face,%20Smile%20&%20Eye%20Detection.ipynb)
 19. [Video - Object Detection and Tracking with pytorch](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Video%20-%20Object%20Detection%20and%20Tracking%20with%20pytorch.ipynb)
 20. [Live Streaming - Face Detection](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Live%20Streaming%20-%20Face%20Detection.ipynb)
+21. [Face Distance (matching score)](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Face%20Distance%20(matching%20score).ipynb)
+23. [Face Recognition with single image](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Face%20Recognition%20with%20single%20image.ipynb)
+
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
