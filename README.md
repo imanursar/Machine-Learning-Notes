@@ -193,6 +193,7 @@ The repository contains the work related to Machine Learning and some notes from
 24. [Face Recognition with single image](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Face%20Recognition%20with%20single%20image.ipynb)
 25. [Live Video - Face Landmark](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Live%20Video%20-%20Face%20Landmark.ipynb)
 26. [Live Video - Predicting Gender and Age From Face Image](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Live%20Video%20-%20Predicting%20Gender%20and%20Age%20From%20Face%20Image.ipynb)
+27. [Multiple Image - Face swapper](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Computer%20Vision/Multiple%20Image%20-%20Face%20swapper.ipynb)
 
 ## [Time Series](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series)
 1. [Seasonal and Decomposition](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Time%20series/Seasonal%20and%20decomposition)
