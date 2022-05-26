@@ -218,6 +218,7 @@ The repository contains the work related to Machine Learning and some notes from
 14. [Time series - with RNN model](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Time%20series%20-%20with%20RNN%20model.ipynb)
 15. [Time Series Prediction using LSTM with PyTorch in Python](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Time%20Series%20Prediction%20using%20LSTM%20with%20PyTorch%20in%20Python.ipynb)
 16. [Variational AutoEncoder - Time Series with missing value](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Variational%20AutoEncoder%20-%20Time%20Series%20with%20missing%20value.ipynb)
+17. [Outlier Detection in time series data with RNN Autoencoders](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Outlier%20Detection%20in%20time%20series%20data%20with%20RNN%20Autoencoders.ipynb)
 
 ## [Clustering](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Clustering)
 1. [Simple Customer Segmentation Using RFM Analysis](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Clustering/Simple%20Customer%20Segmentation%20Using%20RFM%20Analysis.ipynb)
