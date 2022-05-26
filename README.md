@@ -211,6 +211,13 @@ The repository contains the work related to Machine Learning and some notes from
 7. [Sequence Problems with LSTM](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Solving%20Sequence%20Problems%20with%20LSTM%20in%20Keras.ipynb)
 8. [Time Series Prediction using LSTM and PyTorch](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Time%20Series%20Prediction%20using%20LSTM%20with%20PyTorch%20in%20Python%20.ipynb)
 9. [Predict Visitor Forecasting](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Visitor%20Forecasting.ipynb)
+10. [Restaurant Visitor Forecasting](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Restaurant%20Visitor%20Forecasting.ipynb)
+11. [Bike Sharing Demand Prediction - Time Series with LGBM](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Bike%20Sharing%20Demand%20Prediction%20-%20Time%20Series%20with%20LGBM.ipynb)
+12. [Covid case prediction in early stage of pandemic with SIR model](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Covid%20case%20prediction%20in%20early%20stage%20of%20pandemic%20with%20SIR%20model.ipynb)
+13. [Time Series - Forecasting with LSTM](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Time%20Series%20-%20Forecasting%20with%20LSTM.ipynb)
+14. [Time series - with RNN model](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Time%20series%20-%20with%20RNN%20model.ipynb)
+15. [Time Series Prediction using LSTM with PyTorch in Python](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Time%20Series%20Prediction%20using%20LSTM%20with%20PyTorch%20in%20Python.ipynb)
+16. [Variational AutoEncoder - Time Series with missing value](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Time%20series/Variational%20AutoEncoder%20-%20Time%20Series%20with%20missing%20value.ipynb)
 
 ## [Clustering](https://gitlab.com/imanursar/machine-learning-notes/-/tree/master/Clustering)
 1. [Simple Customer Segmentation Using RFM Analysis](https://gitlab.com/imanursar/machine-learning-notes/-/blob/master/Clustering/Simple%20Customer%20Segmentation%20Using%20RFM%20Analysis.ipynb)
